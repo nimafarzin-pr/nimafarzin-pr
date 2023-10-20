@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimafarzin-pr&label=Profile%20views&color=0e75b6&style=flat" alt="nimafarzin-pr" /> </p>
 
-- 💬 Ask me about **Flutter, React Native**
+- 💬 Ask me about **Flutter, React, React Native**
 
 - 📫 How to reach me **nimafarzin94@gmail.com**
 
