@@ -3,7 +3,6 @@
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://monday.com/blog/wp-content/uploads/2019/10/What-Every-New-Scrum-Master-Must-Know-1.png"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nimafarzin-pr&label=Profile%20views&color=0e75b6&style=flat" alt="nimafarzin-pr" /> </p>
 
 - 💬 Ask me about **Flutter, React, React Native**
 
@@ -11,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/nima-farzin-pr" target="blank"></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/nima-farzin-pr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nima-farzin-pr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
