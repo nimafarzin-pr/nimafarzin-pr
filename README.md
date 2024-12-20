@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nima Farzinpour</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate mobile developer</h3>
 <img align="right" alt="Coding" width="400" src="https://monday.com/blog/wp-content/uploads/2019/10/What-Every-New-Scrum-Master-Must-Know-1.png"/>
 
 
