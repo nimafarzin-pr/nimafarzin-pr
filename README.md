@@ -1,8 +1,6 @@
-
 <h1 align="center">Hi 👋, I'm Nima Farzinpour</h1>
 <h3 align="center">A passionate mobile developer</h3>
 <img align="right" alt="Coding" width="400" src="https://monday.com/blog/wp-content/uploads/2019/10/What-Every-New-Scrum-Master-Must-Know-1.png"/>
-
 
 - 💬 Ask me about **Flutter, React, React Native**
 
@@ -10,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/nima-farzin-pr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nima-farzin-pr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nima-farzin-pr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nima-farzin-pr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,5 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimafarzin-pr&show_icons=true&locale=en&layout=compact" alt="nimafarzin-pr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nimafarzin-pr&show_icons=true&locale=en" alt="nimafarzin-pr" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nimafarzin-pr&show_icons=true&locale=en&count_private=true" alt="nimafarzin-pr" /></p>
