@@ -33,10 +33,10 @@ I’m a mobile developer with a passion for crafting high-performance, beautiful
 I wield these tools to create apps that perform as good as they look:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,vite,redux,java,kotlin,androidstudio,gradle,apple,firebase,bitbucket,docker,typescript,javascript,materialui,html,css,figma,py,linkedin,mongodb,nodejs,supabase" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,vite,redux,java,kotlin,androidstudio,gradle,apple,firebase,bitbucket,docker,typescript,javascript,materialui,html,css,figma,py,linkedin,mongodb,nodejs,supabase,git,github,postman,vscode" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-</div>
+<!--   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</div> -->
 
 ---
 
